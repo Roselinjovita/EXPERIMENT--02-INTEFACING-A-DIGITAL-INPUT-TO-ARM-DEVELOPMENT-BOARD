@@ -89,10 +89,10 @@ void push_button()
 
 ## Output  :
 
- ![image](https://github.com/Roselinjovita/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119104296/547b928f-702b-4673-866a-a40f6eb80ff1)
+![image](https://github.com/Roselinjovita/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119104296/8a71896b-9370-444d-98b5-e62cd7b17133)
 
- 
-![image](https://github.com/Roselinjovita/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119104296/d2ad6244-248e-4b6a-aa80-8952432451a6)
+
+![image](https://github.com/Roselinjovita/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119104296/3eb8b891-5e01-400a-a2e0-d6e35144fd2f)
 
 
  
